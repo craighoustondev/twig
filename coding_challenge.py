@@ -11,6 +11,7 @@ the final part should have length equal to the remainder.
 
 import math
 
+
 def split_list(original_list, number_of_new_lists):
     """
     Splits a list in to a specified number of sub-lists.
